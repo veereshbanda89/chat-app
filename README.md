@@ -3,7 +3,7 @@
 
 # run backend
 
-- activate virtual environment (Windows): 
+- activate virtual environment: 
  **.\venv\Scripts\activate**
 
 # run frontend
